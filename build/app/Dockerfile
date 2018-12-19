@@ -1,4 +1,4 @@
-FROM ruby:2.4.1
+FROM ruby:2.5.3
 
 ENV DEBCONF_NOWARNINGS yes
 ENV DEBIAN_FRONTEND noninteractive
